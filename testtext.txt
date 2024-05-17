@@ -1,4 +1,5 @@
 Dies ist ein testtext.
 
-Die ist die Erweiterung.
+Dies ist die Erweiterung vom lokalen Rechner
 
+Die ist eine Erweiterung von Github aus
